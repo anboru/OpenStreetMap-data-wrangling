@@ -1,2 +1,2 @@
 # OpenStreetMap-data-wrangling
-Extraction and cleaning of Sunnyvale street data from OpenStreetMap
+The goal is to extract and clean Sunnyvale street data from Open Street Map. After data were extracted as xml (osm) file, I used Python to analyze address parts. 
